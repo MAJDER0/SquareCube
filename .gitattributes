@@ -1,8 +1,0 @@
-SquareCube[[:space:]]-[[:space:]]Whole[[:space:]]Project/** filter=lfs diff=lfs merge=lfs -text
-
-*.csharp linguist-detectable=true 
-*.smalltalk linguist-detectable=false 
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false    
